@@ -441,4 +441,3 @@
 127.0.0.1 oth.eve.mdt.qq.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 pingma.qq.com
-127.0.0.1 www.google.com
