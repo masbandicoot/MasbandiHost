@@ -16,6 +16,5 @@
 0.0.0.0 app.game.qq.com
 0.0.0.0 intldlgs.qq.com
 0.0.0.0 www.pubgmobile.com
-0.0.0.0 csoversea.mbgame.gamesafe.qq.com
 0.0.0.0 www.pubgmobile.com
 0.0.0.0 tencentgames.helpshift.com
