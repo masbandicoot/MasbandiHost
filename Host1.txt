@@ -44,3 +44,13 @@
 0.0.0.0 49.51.177.92
 0.0.0.0 vnglobby.igamecj.com
 0.0.0.0 pubgmvn.helpshift.com
+
+0.0.0.0 down.qq.com
+0.0.0.0 dlied.qq.com
+0.0.0.0 dlied1.qq.com
+0.0.0.0 dlied1.tcdn.qq.com
+0.0.0.0 dlied2.tcdn.qq.com
+0.0.0.0 dlied3.tcdn.qq.com
+0.0.0.0 dlied4.tcdn.qq.com
+0.0.0.0 dlied5.tcdn.qq.com
+0.0.0.0 dlied6.tcdn.qq.com
