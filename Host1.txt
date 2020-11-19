@@ -1,2 +1,1 @@
-127.0.0.1 usa.csoversea.mbgame.anticheatexpert.com
-127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 file.igamecj.com
